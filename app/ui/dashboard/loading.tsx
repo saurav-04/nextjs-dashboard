@@ -1,8 +1,8 @@
-import { CardSkeleton } from "../skeletons";
+import  DashboardSkeleton  from '../skeletons'
 export default function Loading() {
     return (
         <div>
-            <CardSkeleton/>
+            <DashboardSkeleton/>
         </div>
     );
 }
