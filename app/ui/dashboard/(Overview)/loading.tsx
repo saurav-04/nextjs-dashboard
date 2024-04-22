@@ -1,4 +1,4 @@
-import  DashboardSkeleton  from '../skeletons'
+import  DashboardSkeleton  from '../../skeletons'
 export default function Loading() {
     return (
         <div>
